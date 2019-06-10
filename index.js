@@ -102,9 +102,10 @@ mongoose.connect('mongodb://localhost/kotlin',{useNewUrlParser:true})
 
   app.delete('/participant/:id',async(req,res)=>{
       //code here
-      
+
   })
 
+  
 
 
 
